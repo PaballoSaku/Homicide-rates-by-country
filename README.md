@@ -1,6 +1,10 @@
 # Homicide-rates-by-country
 
-![Crime Scene Images](images/crime_scene.jpg)
+![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
+
+<div id="main image" align="center">
+  <img src="[https://github.com/PaballoSaku/Homicide-rates-by-country/blob/main/crime_scene.jpg]" width="450" height="300" alt=""/>
+</div>
 
 ### Table of Content
 
