@@ -1,6 +1,6 @@
 # Homicide-rates-by-country
 
-xxxx IMAGE PLACEHOLDER XXXXX
+![Crime Scene Images](images/crime_scene.jpg)
 
 ### Table of Content
 
